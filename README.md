@@ -1,6 +1,7 @@
 ## UkuBot!
+==========
 
-[![Uku](img=https://cdn.discordapp.com/avatars/943130465286647829/760126eaff2a7f42c149a03c8203dc1c.png?size=4096) is a simple lightweight bot that gives definitions to stuff and answers your questions.
+[![Uku](img=https://cdn.discordapp.com/avatars/943130465286647829/760126eaff2a7f42c149a03c8203dc1c.png?size=4096)] is a simple lightweight bot that gives definitions to stuff and answers your questions.
 
 Packed with utility based commands for helping out  users in-chat
 
