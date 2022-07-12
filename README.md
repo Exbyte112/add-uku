@@ -13,3 +13,4 @@ Here are a few things uku does:
 - Lookup synonyms for words
 - Donation links (coming soon)
 - Vote rewards (coming soon)
+### [INVIITE UKU](https://discord.com/api/oauth2/authorize?client_id=943130465286647829&permissions=8&scope=bot)
