@@ -2,7 +2,7 @@
 
 ![Uku](https://cdn.discordapp.com/avatars/943130465286647829/760126eaff2a7f42c149a03c8203dc1c.png?size=128)
 
-[Uku](https://discord.com/api/oauth2/authorize?client_id=943130465286647829&permissions=8&scope=bot) is a simple lightweight bot that gives definitions to stuff and answers your questions.
+[Uku]([https://discord.com/api/oauth2/authorize?client_id=943130465286647829&permissions=8&scope=bot](https://discord.com/api/oauth2/authorize?client_id=943130465286647829&permissions=8&scope=bot%20applications.commands)) is a simple lightweight bot that gives definitions to stuff and answers your questions.
 
 Packed with utility based commands for helping out  users in-chat
 
@@ -13,4 +13,4 @@ Here are a few things uku does:
 - Lookup synonyms for words
 - Donation links (coming soon)
 - Vote rewards (coming soon)
-### [**CLICK HERE INVIITE UKU TO YOUR SERVER**](https://discord.com/api/oauth2/authorize?client_id=943130465286647829&permissions=8&scope=bot)
+### [**CLICK HERE INVIITE UKU TO YOUR SERVER**]([https://discord.com/api/oauth2/authorize?client_id=943130465286647829&permissions=8&scope=bot](https://discord.com/api/oauth2/authorize?client_id=943130465286647829&permissions=8&scope=bot%20applications.commands))
