@@ -1,6 +1,6 @@
-## [UkuBot!](https://discord.com/api/oauth2/authorize?client_id=943130465286647829&permissions=8&scope=bot)
+## UkuBot!
 
-[Uku](img=https://cdn.discordapp.com/avatars/943130465286647829/760126eaff2a7f42c149a03c8203dc1c.png?size=4096) is a simple lightweight bot that gives definitions to stuff and answers your questions.
+[![Uku](img=https://cdn.discordapp.com/avatars/943130465286647829/760126eaff2a7f42c149a03c8203dc1c.png?size=4096) is a simple lightweight bot that gives definitions to stuff and answers your questions.
 
 Packed with utility based commands for helping out  users in-chat
 
@@ -11,7 +11,3 @@ Here are a few things uku does:
 - Lookup synonyms for words
 - Donation links (coming soon)
 - Vote rewards (coming soon)
-
-# add-uku
-Click this [link](https://discord.com/api/oauth2/authorize?client_id=943130465286647829&permissions=8&scope=bot) to add uku to your server!
-https://discord.com/api/oauth2/authorize?client_id=943130465286647829&permissions=8&scope=bot
