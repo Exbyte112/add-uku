@@ -11,6 +11,5 @@ Here are a few things uku does:
 - Replies to questions asked even with [natural](https://i.imgur.com/dSVNFKG.png) [language](https://media.discordapp.net/attachments/996107451130712104/996112373926613062/unknown.png) (from wolfram alpha)
 - Instantly create QR codes for links and phrases
 - Translate phrases from any language to English (other languages coming soon)
-- Donation links (coming soon)
 - Vote rewards (coming soon)
 ### [**CLICK HERE INVIITE UKU TO YOUR SERVER**](https://discord.com/api/oauth2/authorize?client_id=943130465286647829&permissions=8&scope=bot%20applications.commands)
