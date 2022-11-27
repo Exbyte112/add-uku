@@ -12,4 +12,4 @@ Here are a few things uku does:
 - Instantly create QR codes for links and phrases
 - Translate phrases from any language to English (other languages coming soon)
 - Vote rewards (coming soon)
-### [**CLICK HERE INVIITE UKU TO YOUR SERVER**](https://discord.com/oauth2/authorize?client_id=169293305274826754&scope=bot+applications.commands&permissions=268823638)
+### [**CLICK HERE INVIITE UKU TO YOUR SERVER**](https://discord.com/api/oauth2/authorize?client_id=943130465286647829&permissions=8&scope=bot%20applications.commands)
